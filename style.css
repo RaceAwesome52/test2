@@ -1,0 +1,14 @@
+h3{
+    text-transform: uppercase;
+}
+p{
+    font-family:Arial;
+    text-align: right;
+}
+a{
+    font-style:italic;
+    font-size:16px;
+}
+body{
+    background-color:HoneyDew;
+}
